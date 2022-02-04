@@ -11,7 +11,7 @@ npm install ps-react
 [Here's a list of current known issues in the course](https://github.com/coryhouse/ps-react/issues).
 
 ## Docs
-[Component documentation](http://coryhouse.github.io/ps-react)
+[Component documentation](https://github.com/CarlosA88/ps-react)
 
 ## Component Hall of Fame 🎉
 Here's a list of components built by your fellow viewers!
